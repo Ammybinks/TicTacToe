@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\oSymbol.png</Source>
+      <Name>Images\oSymbol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\bin\x86\Debug\Content\Images\oSymbol.xnb</Output>
+      <Time>2010-03-25T00:12:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tic_tac_toe_board.png</Source>
+      <Name>Images\tic_tac_toe_board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\bin\x86\Debug\Content\Images\tic_tac_toe_board.xnb</Output>
+      <Time>2010-03-24T23:52:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\xSymbol.png</Source>
+      <Name>Images\xSymbol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\bin\x86\Debug\Content\Images\xSymbol.xnb</Output>
+      <Time>2010-03-24T23:42:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tic_tac_toe_splash.png</Source>
+      <Name>Images\tic_tac_toe_splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\bin\x86\Debug\Content\Images\tic_tac_toe_splash.xnb</Output>
+      <Time>2010-03-24T23:58:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tic_tac_toe_board2.png</Source>
+      <Name>Images\tic_tac_toe_board2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\bin\x86\Debug\Content\Images\tic_tac_toe_board2.xnb</Output>
+      <Time>2010-03-30T16:28:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2010-03-24T22:10:26+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\TeenCoder\Game Programming\Activity Starters\TicTacToe\TicTacToe\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-27T22:51:55.1078598+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
